@@ -7,5 +7,6 @@ public class CWH_PS4 {
         int km = sc.nextInt();
         float miles = km/1.609f;
         System.out.println("Distance in miles is: "+miles);
+        sc.close();
     }
 }

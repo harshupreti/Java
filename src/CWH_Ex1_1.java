@@ -22,5 +22,6 @@ public class CWH_Ex1_1 {
         float percentage = (float)sum / 5;
         System.out.println("Total percentage is");
         System.out.println(percentage);
+        sc.close();
     }
 }

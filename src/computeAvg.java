@@ -13,6 +13,7 @@ public class computeAvg {
         double average = (first+second+third) / 3.0;
 
         System.out.print("Average is: " + average);
+        input.close();
     }
 
 }

@@ -9,6 +9,6 @@ public class CWH_PS1 {
         int num3 = sc.nextInt();
         int sum = num1 + num2 + num3;
         System.out.println("Sum of 3 no.s is: "+sum);
-        
+        sc.close();
     }
 }

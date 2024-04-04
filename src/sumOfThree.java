@@ -10,5 +10,6 @@ public class sumOfThree {
         int c = sc.nextInt();
 
         System.out.print("Sum of three numbers is: " + (a+b+c));
+        sc.close();
     }
 }

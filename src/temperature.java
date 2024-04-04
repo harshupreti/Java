@@ -12,5 +12,6 @@ public class temperature {
         double celsius = (5.0 / 9) * (fahrenheit - 32);
 
         System.out.print("Temperature in celsius is: " + celsius);
+        input.close();
     }
 }
